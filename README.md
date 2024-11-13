@@ -15,7 +15,7 @@ A simple slot machine game created in React. The game features various symbols (
 - Retro design
 
 ## Demo
-Try the game here: [Slot Machine Demo](https://hkst21.github.io/slot-machine)
+Try the game here: [Slot Machine Demo](https://hkst21.github.io/slotmachine)
 
 ## Technologies
 - React
